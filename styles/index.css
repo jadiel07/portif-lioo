@@ -327,6 +327,7 @@ header .switch {
   border-radius: 10px;
   border: 2px solid var(--white);
   margin-left: -10%;
+
 }
 .about-me .container-about-me article {
   position: relative;
